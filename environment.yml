@@ -1,0 +1,16 @@
+name: C:\Users\Nick1\Desktop\TelcoChurnProject\env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - seaborn
+  - prince-factor-analysis
+  - adjusttext
+  - voila
+  - ipywidgets
+  - prince
+prefix: C:\Users\Nick1\Desktop\TelcoChurnProject\env
