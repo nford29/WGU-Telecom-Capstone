@@ -12,5 +12,6 @@ dependencies:
   - adjusttext
   - voila
   - ipywidgets
-  - prince
+  - pip:
+    - prince
 prefix: C:\Users\Nick1\Desktop\TelcoChurnProject\env
